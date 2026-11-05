@@ -1,0 +1,3 @@
+NamePlateSetupOptions.healthTextInsideBarWhenNameAboveHealthBar = true;
+NamePlateSetupOptions.nameJustificationWhenAboveHealthBar = "CENTER";
+NamePlateSetupOptions.useOutlinedFontWhenAboveHealthBar = true;
