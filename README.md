@@ -72,5 +72,3 @@ World of Warcraft, Blizzard Entertainment, and the World of Warcraft user interf
 The presence of Blizzard's UI source code in this repository does not imply ownership of that code by Good Mojo Studio.
 
 This repository exists for reference, research, and World of Warcraft addon development.
-# Warcraft-Forever-Extraction
-
